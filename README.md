@@ -21,7 +21,7 @@ This assessment was about extending the event management system to enable users 
 * For persistent data storage, implement ArrayLists and SharedPreferences, allowing the app to save and retrieve data even after it's closed
 
 ## Assessment 3 - HD
-This assessment was about further extending the event management system. The following concepts were implemented:
+This assessment was about further extending the event management system to make it as comprehensive as possible. The following concepts were implemented:
 * Storing events & event categories using the Room Database library. This will allow you to understand how database CRUD (Create Read Update & Delete) operations work in a database
 * Hosting external webpages within the app using WebView, without relying on the default web browser on the phone
 * Using the embedded Google Map libraries to show a category's location on the Map and leverage Geocoder to decode user-provided input to a physical address
