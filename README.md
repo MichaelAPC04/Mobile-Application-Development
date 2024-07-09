@@ -1,5 +1,5 @@
 # Mobile-Application-Development - HD
-All assessments were completed individually in their entirety to time.
+_All assessments were completed individually in their entirety to time._
 
 ## Assessment 1 - HD
 This assessment was about creating an event management system. The following concepts were implemented:
